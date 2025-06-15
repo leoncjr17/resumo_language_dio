@@ -1,2 +1,2 @@
-# resumo_language_dio
-Desafio do bootcamp de Python Developer da DIO sobre Language Studio.
+## Resumo - Language Studio (Desafio)
+- Neste desafio, a orientadora esteve a cargo de orientar como acessar o site para poder utilizar a função de conversão de texto em tempo real, além de explicar como usar outras ferramentas de outros cenários e contextos na primeira parte. Na segunda, houve um maior aprofundamento no Language Studio, usando um texto de base para analisar os sentimentos do suposto cliente avaliando um hotel. 
